@@ -55,4 +55,3 @@ Résultat attendu :
 ✓ Nom et prénom visibles
 
 ✓ Date et heure mises à jour dynamiquement
-(⚠️ Rien concernant la base de données)
